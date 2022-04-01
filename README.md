@@ -1,6 +1,17 @@
+Scientific computation developer with engineering background
+
+- solid mechanics
+- mechanical engineering
+- computer graphics
+- numerical solver
+- physics simulation
+- electrical engineering
+- industrial automation
+- circuit design
+
 - 👋 Hi, I’m @danyougle
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in full time job in Europe
+- 🌱 I’m currently learning Golang, Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
